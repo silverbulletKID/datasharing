@@ -132,11 +132,11 @@ clusplot(dataset,
 
 ![](.gitbook/assets/image%20%286%29.png)
 
-![](.gitbook/assets/image%20%2817%29.png)
+![](.gitbook/assets/image%20%2818%29.png)
 
 ### Best number of clusters
 
-![](.gitbook/assets/image%20%2819%29.png)
+![](.gitbook/assets/image%20%2820%29.png)
 
 ### Python Code
 
@@ -240,7 +240,7 @@ clusplot(dataset,
 
 ## Pros and Cons
 
-![](.gitbook/assets/image%20%2814%29.png)
+![](.gitbook/assets/image%20%2815%29.png)
 
 
 

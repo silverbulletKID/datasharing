@@ -841,7 +841,7 @@ ggplot() +
 
 ![](.gitbook/assets/regression-pros-cons.jpg)
 
-## Model Evaluation
+
 
 
 

@@ -41,6 +41,8 @@ In real experiments, the bootstrapped samples are drawn from the training set, a
 
 Once the sequence of the models are created the predictions made by models are weighted by their accuracy scores and the results are combined to create a final estimation.Models that are typically used in Boosting technique are XGBoost \(Extreme Gradient Boosting\), GBM \(Gradient Boosting Machine\), ADABoost \(Adaptive Boosting\), etc.
 
+{% embed url="https://www.quora.com/Which-one-is-better-XGBoost-Vs-AdaBoost" %}
+
 {% hint style="info" %}
 A family of machine learning algorithms that convert weak learners to strong ones.
 
@@ -306,7 +308,7 @@ plt.show()
 
 #### Tree Model
 
-![](.gitbook/assets/image%20%2821%29.png)
+![](.gitbook/assets/image%20%2823%29.png)
 
 #### Number of Tree
 
@@ -717,4 +719,8 @@ randomized_roc_auc.fit(X, y)
 print(randomized_roc_auc.best_score_)
 print(randomized_roc_auc.best_estimator_)
 ```
+
+## LightGBM
+
+{% embed url="https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc" %}
 
